@@ -3,5 +3,3 @@
 ![Image](/assets/image.jpeg)
 
 UX Journal
-
-[Read about my experience with Bash](j01/)
