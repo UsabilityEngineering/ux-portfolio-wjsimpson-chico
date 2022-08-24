@@ -1,8 +1,6 @@
-# UX Portfolio
+# Will Simpson's UX Portfolio Website
 
-
-## UX Team Project
-
+![Image](/assets/image.jpeg)
 
 ## UX Journal
 
