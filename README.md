@@ -2,7 +2,7 @@
 
 ![Image](/assets/image.jpeg)
 
-Useability Engineering Journal
+## Useability Engineering Journal
 
 In my day job, a staple device for analyzing video signals is something called a Wave Form Analyzer. The Tektonix WFM 8300 (Now owned by Telestream). A WFM, WaveForm Monitor is a special type of oscilloscope used for evaluating broadcast video signals. The WFM8300 was the very top of the line about 10 years ago. Priced around $30,000 it was a device that required a decent business case to purchase. 
 
