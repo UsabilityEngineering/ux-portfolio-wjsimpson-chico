@@ -8,27 +8,7 @@ In my day job, a staple device for analyzing video signals is something called a
 
 The simple explanation is the WFM 8300 is used to analyze up to two channels of a given video stream up to 3Gb/s. The world of video is measured in how much data is transmitted in a specific format. 10 Bit YUV video with a raster size of 1920x1080 at up to 60 frames per second fits in a 3Gb/s container. 12 Bit RGB with a raster size of 2048x1080 at up to 30 frames also fits in a 3Gb/s container. In both scenarios 
 
-
-<table>
-  <tr>
-   <td>
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-   <td>
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-</table>
+![Image](/assets/wfm8300.jpg)
 
 
  The UI reports a variety of information about the video signal, rate, raster, color space, payload ID and many many other things. Front panel interaction is handled through a series of buttons that represent a section. You hold down each button to get a sub menu of each of those sections. It took me a long time to understand how to hunt through the UI. The menu organization also doesn’t make a lot of sense. It feels like a case where the UI was handled by engineers and it was implemented based on the engineers as the users.
@@ -39,10 +19,7 @@ Like basically all forms of electronic based technology, products come and go. I
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![Image](/assets/prism.jpg)
 
 
 The biggest hurdle for us in QA will be reworking the existing SNMP based automation to use the RESTful interface of the new Prism scope. This is hopefully a positive transition as REST has proven to be more robust than previous technologies.
