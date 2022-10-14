@@ -1,6 +1,11 @@
 # Will Simpson's UX Portfolio Website
+<img
+  align="right"
+  width="50%"
+  height="50%"
+  src="/assets/image.jpeg"
+>
 
-![Image](/assets/image.jpeg)
 
 ## Useability Engineering Journal
 
