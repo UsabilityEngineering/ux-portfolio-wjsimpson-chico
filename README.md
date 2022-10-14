@@ -3,7 +3,7 @@
   align="right"
   width="50%"
   height="50%"
-  src="assets/image.jpeg"
+  src="[assets/image.jpeg](https://usabilityengineering.github.io/ux-portfolio-wjsimpson-chico/assets/image.jpeg)"
 >
 
 
