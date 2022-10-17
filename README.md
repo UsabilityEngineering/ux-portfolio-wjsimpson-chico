@@ -4,6 +4,8 @@
 
 ## Useability Engineering Journal
 
+### Will Simpson - 10-14-2022
+
 In my day job, a staple device for analyzing video signals is something called a Wave Form Analyzer. The Tektonix WFM 8300 (Now owned by Telestream). A WFM, WaveForm Monitor is a special type of oscilloscope used for evaluating broadcast video signals. The WFM8300 was the very top of the line about 10 years ago. Priced around $30,000 it was a device that required a decent business case to purchase. 
 
 The simple explanation is the WFM 8300 is used to analyze up to two channels of a given video stream up to 3Gb/s. The world of video is measured in how much data is transmitted in a specific format. 10 Bit YUV video with a raster size of 1920x1080 at up to 60 frames per second fits in a 3Gb/s container. 12 Bit RGB with a raster size of 2048x1080 at up to 30 frames also fits in a 3Gb/s container. In both scenarios 
