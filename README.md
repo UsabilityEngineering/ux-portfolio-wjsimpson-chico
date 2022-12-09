@@ -2,6 +2,5 @@
 
 ![Image](/assets/image.jpeg)
 
-## Link to Journal 1
-
-## Link to Journal 2
+* [Journal 1](j01/)
+* [Journal 2](j02/)
